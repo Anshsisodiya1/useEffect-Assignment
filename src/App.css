@@ -1,4 +1,3 @@
-/* Global Reset */
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +15,6 @@ body {
   overflow: hidden;
 }
 
-/* Container for App Content */
 .container {
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(10px);
